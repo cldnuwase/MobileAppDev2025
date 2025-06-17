@@ -4,5 +4,8 @@
 // 3. Higher-Order Functions
 // 4. Generators (async* and sync*)
 // 5. Closures
+// 7. Anonymous Functions
+
+//example of an
 
 
